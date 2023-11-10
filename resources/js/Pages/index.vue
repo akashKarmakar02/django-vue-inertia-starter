@@ -1,6 +1,5 @@
 <script setup lang="ts">
-import {Link, Head, useForm } from "@inertiajs/vue3";
-import { router } from "@inertiajs/vue3"
+import { Link, Head, useForm } from "@inertiajs/vue3";
 
 import Button from "primevue/button";
 import InputText from "primevue/inputtext";
@@ -9,8 +8,6 @@ import { reactive } from "vue";
 
 const form = useForm({
   name: "",
-  roll: "bca2021002",
-  girlfriend: "ananya"
 })
 
 </script>
