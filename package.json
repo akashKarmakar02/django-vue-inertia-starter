@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@inertiajs/vue3": "^1.0.14",
+    "@vue/server-renderer": "^3.3.8",
+    "primevue": "^3.39.0",
+    "vue": "^3.3.8",
+    "vue3-cookies": "^1.0.6"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && vite build --ssr"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^4.5.0"
+  }
+}
