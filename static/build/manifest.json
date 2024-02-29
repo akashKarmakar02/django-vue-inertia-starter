@@ -1,13 +1,30 @@
 {
+  "node_modules/primevue/resources/themes/lara-light-purple/fonts/Inter-italic.var.woff2": {
+    "file": "assets/Inter-italic.var-d1401419.woff2",
+    "src": "node_modules/primevue/resources/themes/lara-light-purple/fonts/Inter-italic.var.woff2"
+  },
+  "node_modules/primevue/resources/themes/lara-light-purple/fonts/Inter-roman.var.woff2": {
+    "file": "assets/Inter-roman.var-17fe38ab.woff2",
+    "src": "node_modules/primevue/resources/themes/lara-light-purple/fonts/Inter-roman.var.woff2"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-9da4316b.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
   "resources/js/app.css": {
-    "file": "assets/app-179954eb.css",
+    "file": "assets/app-fbd55f48.css",
     "src": "resources/js/app.css"
   },
   "resources/js/app.js": {
-    "css": [
-      "assets/app-179954eb.css"
+    "assets": [
+      "assets/Inter-roman.var-17fe38ab.woff2",
+      "assets/Inter-italic.var-d1401419.woff2"
     ],
-    "file": "assets/app-157f0fe3.js",
+    "css": [
+      "assets/app-fbd55f48.css"
+    ],
+    "file": "assets/app-feadd6b4.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   }
